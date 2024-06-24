@@ -33,15 +33,36 @@ Prior to WashU, I received a B.S. in Physics at [Nankai University](https://en.n
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters](https://arxiv.org/abs/2406.04469)
 
 **Yiyang Chen**, Yuanxin Qiu, Matthew D. Lew
 
+*arXiv preprint, arXiv:2406.04469*
+
 # 💻 Research Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Fundamental Limits, Advanced Optical Imaging System Design and Biological Applications in Single-molecule Orientation Localization Microscopy (SMOLM), 2022.05 - present
+  - The Preston M. Green Department of Electrical & Systems Engineering, Washington University in St. Louis
+  - Advisor: Dr. Matthew D. Lew
+  - Research Works:
+    - Analyze fundamental precision limits for resolving the orientation separation of two spatially overlapping fluorescent dipole emitters.
+    - Develop appropriate labeling techniques for protein imaging in orientation microscopy.
+
+- Study of Human Red Blood Cells Based on Microfluidics and Super-resolution Microscopy, 2019.05 - 2021.06
+  - School of Physics, Nankai University
+  - Advisor: Dr. Leiting Pan
+  - Research Works:
+    - Measured human red blood cell deformability by the speed of cells traveling through narrow channels.
+    - Designed a microfluidic ratchet chip for sorting the hRBCs in different life stages, and ran a COMSOL simulation to prove the availability.
+    - Imaged the structure of the actin-spectrin network on hRBC membrane cytoskeleton and hRBC membrane protein CD47 diffusivity using STORM, with related data analysis using MATLAB.
+    
+- Immunofluorescent Biomarker for Zebrafish Somitogenesis and Single Cell Oscillation. 2019.07 - 2019.09
+  - Department of Biophysics, University of Michigan
+  - Advisor: Dr. Qiong Yang
+  - Research Works:
+    - Developed immunofluorescent biomarkers for different signaling pathways in zebrafish somitogenesis process and segmentation clock.
+    - Distinguished oscillating cells of different phenotypes within both zebrafish embryos and cell dispersal systems.
 
 # 🎖 Honors and Awards
 - *2018.05* First Prize, Nankai Physics Tournament (NKPT). 
@@ -49,5 +70,6 @@ Prior to WashU, I received a B.S. in Physics at [Nankai University](https://en.n
 
 
 # 💬 Academic Activities
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Member, [Spectra](https://sites.wustl.edu/spectra/) ((WashU SPIE and OSA Student Chapter), 2022-present
+  - Serve as Co-President (2024) and Vice President (2023)
+- Member, Nankai Physics OSA student chapter, 2018-2020
