@@ -44,14 +44,14 @@ For more details, my CV is [here](https://github.com/yiyangc1999/yiyangc1999.git
 *arXiv preprint, arXiv:2406.04469*
 
 # 💻 Research Experiences
-- Fundamental Limits, Advanced Optical Imaging System Design and Biological Applications in Single-molecule Orientation Localization Microscopy (SMOLM), 2022.05 - present
+- **Fundamental Limits, Advanced Optical Imaging System Design and Biological Applications in Single-molecule Orientation Localization Microscopy (SMOLM)**, 2022.05 - present
   - The Preston M. Green Department of Electrical & Systems Engineering, Washington University in St. Louis
   - Advisor: Dr. Matthew D. Lew
   - Research Works:
     - Analyze fundamental precision limits for resolving the orientation separation of two spatially overlapping fluorescent dipole emitters.
     - Develop appropriate labeling techniques for protein imaging in orientation microscopy.
 
-- Study of Human Red Blood Cells Based on Microfluidics and Super-resolution Microscopy, 2019.05 - 2021.06
+- **Study of Human Red Blood Cells Based on Microfluidics and Super-resolution Microscopy**, 2019.05 - 2021.06
   - School of Physics, Nankai University
   - Advisor: Dr. Leiting Pan
   - Research Works:
@@ -59,7 +59,7 @@ For more details, my CV is [here](https://github.com/yiyangc1999/yiyangc1999.git
     - Designed a microfluidic ratchet chip for sorting the hRBCs in different life stages, and ran a COMSOL simulation to prove the availability.
     - Imaged the structure of the actin-spectrin network on hRBC membrane cytoskeleton and hRBC membrane protein CD47 diffusivity using STORM, with related data analysis using MATLAB.
     
-- Immunofluorescent Biomarker for Zebrafish Somitogenesis and Single Cell Oscillation. 2019.07 - 2019.09
+- **Immunofluorescent Biomarker for Zebrafish Somitogenesis and Single Cell Oscillation**, 2019.07 - 2019.09
   - Department of Biophysics, University of Michigan
   - Advisor: Dr. Qiong Yang
   - Research Works:
@@ -67,8 +67,8 @@ For more details, my CV is [here](https://github.com/yiyangc1999/yiyangc1999.git
     - Distinguished oscillating cells of different phenotypes within both zebrafish embryos and cell dispersal systems.
 
 # 🎖 Honors and Awards
-- *2018.05* First Prize, Nankai Physics Tournament (NKPT). 
-- *2017.10* Poling Scholarship. 
+- *2018.05* First Prize, Nankai Physics Tournament (NKPT)
+- *2017.10* Poling Scholarship
 
 
 # 💬 Academic Activities
