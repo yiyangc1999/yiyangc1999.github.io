@@ -21,6 +21,8 @@ I am currently a Ph.D. student in [Imaging Science](https://engineering.wustl.ed
 
 Prior to WashU, I received a B.S. in Physics at [Nankai University](https://en.nankai.edu.cn/). I was a member of the Poling Class of Physics. During my undergraduate studies, I researched the cytoskeleton structure and deformability of human red blood cells using microfluidics and STochastic Optical Reconstruction Microscopy (STORM) under the supervision of [Prof. Leiting Pan](http://panltlab.org/). Additionally, I interned at [Prof. Qiong Yang](https://websites.umich.edu/~qiongy/)'s Lab in the [Department of Biophysics](https://lsa.umich.edu/biophysics) at the University of Michigan during the summer of 2019.
 
+For more details, my CV is [here](https://github.com/yiyangc1999/yiyangc1999.github.io/blob/main/cv_YiyangChen.pdf)
+
 # 📖 Educations
 - *2021.09 - present*, Ph.D. in Imaging Science, [Washington University in St. Louis](https://wustl.edu/)
   - Advisor: [Matthew D. Lew](https://lewlab.wustl.edu/)
