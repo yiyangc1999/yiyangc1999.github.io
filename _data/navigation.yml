@@ -9,11 +9,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Research Experiences"
+    url: "/#-research-experiences"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
