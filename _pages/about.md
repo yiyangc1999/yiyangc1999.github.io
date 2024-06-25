@@ -28,7 +28,7 @@ For more details, my CV is [here](https://github.com/yiyangc1999/yiyangc1999.git
   - Advisor: [Matthew D. Lew](https://lewlab.wustl.edu/)
 - *2017.08 - 2021.06*, B.S. in Physics (Poling Class), [Nankai University](https://en.nankai.edu.cn/).
   - Thesis: The Study of Deformability of Human Erythrocyte Based on Microfluidics
-  - Advisor: [Prof. Leiting Pan](http://panltlab.org/)
+  - Advisor: [Leiting Pan](http://panltlab.org/)
 
 # 🔥 News
 - *2024.06*: &nbsp; I will be attending the Gordon Research Conference (GRC) Single Molecule Approaches to Biology in Newry, Maine, presenting my poster "**Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters**". Looking forward to discussing some exciting sciences there! 
