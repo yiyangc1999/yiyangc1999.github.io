@@ -31,7 +31,7 @@ For more details, my CV is [here](https://github.com/yiyangc1999/yiyangc1999.git
   - Advisor: [Leiting Pan](http://panltlab.org/)
 
 # 🔥 News
-- *2024.06*: &nbsp; I will be attending the Gordon Research Conference (GRC) Single Molecule Approaches to Biology in Newry, Maine, presenting my poster "**Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters**". Looking forward to discussing some exciting sciences there! 
+- *2024.06*: &nbsp; I will be attending the Gordon Research Conference (GRC) Single Molecule Approaches to Biology in Newry, Maine, presenting my poster "**Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters**". Looking forward to discussing some exciting science there! 
 
 # 📝 Publications 
 
