@@ -19,16 +19,17 @@ redirect_from:
 
 I am currently a Ph.D. student in [Imaging Science](https://engineering.wustl.edu/academics/programs/imaging-science/index.html) at the [Washington University in St. Louis](https://wustl.edu/), working with [Prof. Matthew Lew](https://lewlab.wustl.edu/). My main research interest is developing advanced multi-dimensional single-molecule super-resolution techniques to visualize the biological structure and dynamics at the nanoscale.
 
-Prior to WashU, I received a B.S. in Physics at [Nankai University](https://en.nankai.edu.cn/). I was a member of the Poling Class of Physics. During my undergraduate studies, I researched the cytoskeleton structure and deformability of human red blood cells using microfluidics and STochastic Optical Reconstruction Microscopy (STORM) under the supervision of [Prof. Leiting Pan](http://panltlab.org/). Additionally, I interned at [Prof. Qiong Yang](https://websites.umich.edu/~qiongy/)'s Lab in the [Department of Biophysics](https://lsa.umich.edu/biophysics) at the University of Michigan during the summer of 2019.
+Prior to WashU, I received a B.S. in Physics at [Nankai University](https://en.nankai.edu.cn/), where I was a member of the Poling Class of Physics. During my undergraduate studies, I investigated the cytoskeleton structure and deformability of human red blood cells using microfluidics and STochastic Optical Reconstruction Microscopy (STORM) under the supervision of [Prof. Leiting Pan](http://panltlab.org/). Additionally, I interned at [Prof. Qiong Yang](https://websites.umich.edu/~qiongy/)'s Lab in the [Department of Biophysics](https://lsa.umich.edu/biophysics) at the University of Michigan during the summer of 2019.
 
 For more details, my CV is [here](https://github.com/yiyangc1999/yiyangc1999.github.io/blob/main/cv_YiyangChen.pdf)
 
 # 📖 Educations
 - *2021.09 - present*, Ph.D. in Imaging Science, [Washington University in St. Louis](https://wustl.edu/)
-  - Advisor: [Matthew D. Lew](https://lewlab.wustl.edu/)
+  - **Advisor**: [Matthew D. Lew](https://lewlab.wustl.edu/)
+  - **Thesis** (ongoing): Multi-dimensional Single Molecule Nanoscopy to Elucidate the Structure and Conformational Dynamics of Cell Membrane Proteins
 - *2017.08 - 2021.06*, B.S. in Physics (Poling Class), [Nankai University](https://en.nankai.edu.cn/).
-  - Thesis: The Study of Deformability of Human Erythrocyte Based on Microfluidics
-  - Advisor: [Leiting Pan](http://panltlab.org/)
+  - **Thesis**: The Study of Deformability of Human Erythrocyte Based on Microfluidics
+  - **Advisor**: [Leiting Pan](http://panltlab.org/)
 
 # 🔥 News
 - *2024.06*: &nbsp; I will be attending the Gordon Research Conference (GRC) Single Molecule Approaches to Biology in Newry, Maine, presenting my poster "**Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters**". Looking forward to discussing some exciting science there! 
