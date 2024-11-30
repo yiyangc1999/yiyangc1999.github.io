@@ -68,9 +68,9 @@ For more details, my CV is [here](docs/cv_YiyangCHEN.pdf)
     - Distinguished oscillating cells of different phenotypes within both zebrafish embryos and cell dispersal systems.
 
 # 🎖 Honors and Awards
-- *Mar 2021* Excellence Award,  China National University Student Innovation & Entrepreneurship Development Program
-- *May 2018* First Prize, Nankai Physics Tournament (NKPT)
-- *Oct 2017* Poling Scholarship
+- *2021.03* Excellence Award,  China National University Student Innovation & Entrepreneurship Development Program
+- *2018.05* First Prize, Nankai Physics Tournament (NKPT)
+- *2017.10* Poling Scholarship
 
 
 # 💬 Academic Activities
