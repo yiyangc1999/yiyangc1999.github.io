@@ -25,11 +25,11 @@ For more details, my CV is [here](docs/cv_YiyangCHEN.pdf)
 
 # 📖 Educations
 - *2021.09 - present*, Ph.D. in Imaging Science, [Washington University in St. Louis](https://wustl.edu/)
-  - **Advisor**: [Matthew D. Lew](https://lewlab.wustl.edu/)
-  - **Thesis** (ongoing): Multi-dimensional Single Molecule Nanoscopy to Elucidate the Structure and Conformational Dynamics of Cell Membrane Proteins
+  - **Advisor**: [Matthew Lew, PhD](https://lewlab.wustl.edu/)
+  - **Thesis** (unfinished): Multi-dimensional Single Molecule Nanoscopy to Elucidate the Structure and Conformational Dynamics of Cell Membrane Proteins
 - *2017.08 - 2021.06*, B.S. in Physics (Poling Class), [Nankai University](https://en.nankai.edu.cn/).
   - **Thesis**: The Study of Deformability of Human Erythrocyte Based on Microfluidics
-  - **Advisor**: [Leiting Pan](http://panltlab.org/)
+  - **Advisor**: [Leiting Pan, PhD](http://panltlab.org/)
 
 # 🔥 News
 - *2024.06*: &nbsp; I will be attending the Gordon Research Conference (GRC) Single Molecule Approaches to Biology in Newry, Maine, presenting my poster "**Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters**". Looking forward to discussing some exciting science there! 
@@ -68,8 +68,9 @@ For more details, my CV is [here](docs/cv_YiyangCHEN.pdf)
     - Distinguished oscillating cells of different phenotypes within both zebrafish embryos and cell dispersal systems.
 
 # 🎖 Honors and Awards
-- *2018.05* First Prize, Nankai Physics Tournament (NKPT)
-- *2017.10* Poling Scholarship
+- *Mar 2021* Excellence Award,  China National University Student Innovation & Entrepreneurship Development Program
+- *May 2018* First Prize, Nankai Physics Tournament (NKPT)
+- *Oct 2017* Poling Scholarship
 
 
 # 💬 Academic Activities
