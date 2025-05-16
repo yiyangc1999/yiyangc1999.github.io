@@ -32,17 +32,19 @@ For more details, my CV is [here](/docs/cv_YiyangCHEN.pdf)
   - **Advisor**: [Leiting Pan, PhD](http://panltlab.org/)
 
 # 🔥 News
-- *2024.06*: &nbsp; I will be attending the Gordon Research Conference (GRC) Single Molecule Approaches to Biology in Newry, Maine, presenting my poster "**Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters**". Looking forward to discussing some exciting science there! 
+- *2025.04*: &nbsp; I will be attending the *Optica Biophotonics Congress: Optics in the Life Sciences* in Coronado, California, presenting "**Combining Excitation and Emission Modulation Resolves the Angular Separation Between a Pair of Dipole Emitters**" at the *Novel Techniques in Microscopy* session.
+- *2025.03*: &nbsp; Our manuscript **Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters** is now published on *Physical Review Letters*. Check the full text [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805).
+- *2024.06*: &nbsp; I will be attending the *Gordon Research Conference (GRC) Single Molecule Approaches to Biology* in Newry, Maine, presenting my poster "**Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters**". Looking forward to discussing some exciting science there!
 
 # 📝 Publications 
 
 <div class='paper-box-text' markdown="1">
 
-[Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters](https://arxiv.org/abs/2406.04469)
+[Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805)
 
 **Yiyang Chen**, Yuanxin Qiu, Matthew D. Lew
 
-*arXiv preprint, arXiv:2406.04469*
+*Phys. Rev. Lett.* **134**, 093805
 
 # 💻 Research Experiences
 - **Fundamental Limits, Advanced Optical Imaging System Design and Biological Applications in Single-molecule Orientation Localization Microscopy (SMOLM)**, 2022.05 - present
