@@ -38,13 +38,11 @@ For more details, my CV is [here](/docs/cv_YiyangCHEN.pdf)
 
 # 📝 Publications 
 
-<div class='paper-box-text' markdown="1">
 
-[Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805)
-
-**Yiyang Chen**, Yuanxin Qiu, Matthew D. Lew
-
-*Phys. Rev. Lett.* **134**, 093805
+- **Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters**
+  **Yiyang Chen**, Yuanxin Qiu, Matthew D. Lew
+  *Phys. Rev. Lett.* **134** (2025), 093805
+  [[Article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805)]
 
 # 💻 Research Experiences
 - **Fundamental Limits, Advanced Optical Imaging System Design and Biological Applications in Single-molecule Orientation Localization Microscopy (SMOLM)**, 2022.05 - present
