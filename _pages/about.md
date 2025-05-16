@@ -33,7 +33,7 @@ For more details, my CV is [here](/docs/cv_YiyangCHEN.pdf)
 
 # 🔥 News
 - *2025.04*: &nbsp; I will be attending the *Optica Biophotonics Congress: Optics in the Life Sciences* in Coronado, California, presenting "**Combining Excitation and Emission Modulation Resolves the Angular Separation Between a Pair of Dipole Emitters**" at the *Novel Techniques in Microscopy* session.
-- *2025.03*: &nbsp; Our manuscript **Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters** is now published on *Physical Review Letters*. Check the full text [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805).
+- *2025.03.07*: &nbsp; Our manuscript "**Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters**" is now published on *Physical Review Letters*. Check the full text [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805).
 - *2024.06*: &nbsp; I will be attending the *Gordon Research Conference (GRC) Single Molecule Approaches to Biology* in Newry, Maine, presenting my poster "**Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters**". Looking forward to discussing some exciting science there!
 
 # 📝 Publications 
