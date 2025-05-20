@@ -37,7 +37,7 @@ For more details, my CV is [here](/docs/cv_YiyangCHEN.pdf)
 - *2024.06*: &nbsp; I will be attending the *Gordon Research Conference (GRC) Single Molecule Approaches to Biology* in Newry, Maine, presenting my poster "**Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters**". Looking forward to discussing some exciting science there!
 
 # 📝 Publications 
- ### **Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters**
+### Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters
   &nbsp;&nbsp;**Yiyang Chen**, Yuanxin Qiu, Matthew D. Lew <br />
   &nbsp;&nbsp;*Phys. Rev. Lett.* **134** (2025), 093805 <br />
   &nbsp;&nbsp;[[Article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805)]; [[WashU The Source](https://source.washu.edu/2025/04/in-molecular-imaging-details-matter/)]; [[arXiv](https://arxiv.org/abs/2406.04469)]
