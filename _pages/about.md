@@ -39,7 +39,7 @@ For more details, my CV is [here](https://github.com/yiyangc1999/yiyangc1999.git
 # 📝 Publications 
 ### Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters
   &nbsp;&nbsp;**Yiyang Chen**, Yuanxin Qiu, Matthew D. Lew <br />
-  &nbsp;&nbsp;*Phys. Rev. Lett.* **134** (2025), 093805 <br />
+  &nbsp;&nbsp;*Physical Review Letters* **134** (2025), 093805 <br />
   &nbsp;&nbsp;[[Article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805)]; [[WashU The Source](https://source.washu.edu/2025/04/in-molecular-imaging-details-matter/)]; [[arXiv](https://arxiv.org/abs/2406.04469)]
 
 # 💻 Research Experiences
