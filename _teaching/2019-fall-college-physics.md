@@ -7,8 +7,6 @@ venue: "Nankai University"
 date: 2019-09-01
 location: "Tianjin, China"
 ---
-
-Course instructor: Prof. Jianghong Yao
-
+- Course instructor: Prof. Jianghong Yao
 - As an undergraduate physics major, assisted with instruction for biology undergraduates enrolled in College Physics.
 - Led recitation sessions, graded homework assignments, and held office hours to support students' learning.
