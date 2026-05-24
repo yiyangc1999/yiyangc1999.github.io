@@ -7,5 +7,6 @@ author_profile: true
 
 ## Honors and Awards
 
-- **Award Name**, Organization, Year.
-- **Fellowship or Scholarship Name**, Organization, Year.
+- *2021.03* Excellence Award, China National University Student Innovation & Entrepreneurship Development Program
+- *2018.05* First Prize, Nankai Physics Tournament (NKPT)
+- *2017.10* Poling Scholarship, Nankai University
