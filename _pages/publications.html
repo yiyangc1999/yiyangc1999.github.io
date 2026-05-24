@@ -1,0 +1,9 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% assign publications_page = site.publications | where: "path", "_publications/publications.md" | first %}
+{{ publications_page.content | markdownify }}
