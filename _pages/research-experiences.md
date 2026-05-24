@@ -24,6 +24,7 @@ May 2022 - present， Advisor: Dr. Matthew D. Lew
 
 
 ## Nankai University
+
 ### Study of Human Red Blood Cell (hRBC) Membrane Characteristics Based on Microfluidics and Single-Molecule Localization Microscopy  
 April 2019 - June 2021, Advisor: Dr. Leiting Pan
 - Quantified hRBC deformability by measuring cell transport speeds through narrow microfluidic channels.
