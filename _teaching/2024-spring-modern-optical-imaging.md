@@ -8,5 +8,6 @@ date: 2024-01-01
 location: "St. Louis, MO"
 ---
 
+- Course instructor: Prof. Matthew Lew
 - Led weekly recitation sessions to reinforce lecture material and support students in applying optical imaging concepts.
 - Contributed to the design of homework assignments and course projects.
