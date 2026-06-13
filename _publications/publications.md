@@ -7,9 +7,9 @@ sitemap: false
 
 <ol style="font-size: 0.9em;">
   <li>
-    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew D. Lew. 2025.
+    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew D. Lew.
     Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters.
-    <em>Physical Review Letters</em> <strong>134</strong>, 093805.
+    <em>Physical Review Letters</em> <strong>134</strong>, 093805 (2025).
     <a href="https://doi.org/10.1103/PhysRevLett.134.093805">doi: 10.1103/PhysRevLett.134.093805</a>
     <p>
       <a class="btn btn--info btn--small" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805"><i class="fas fa-file-alt"></i>&nbsp; Article</a>
@@ -35,7 +35,7 @@ sitemap: false
 
 <ol style="font-size: 0.9em;">
   <li>
-    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew D. Lew. 2025.
+    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew D. Lew.
     <strong>Combining Excitation and Emission Modulation Resolves the Angular Separation between a Pair of Dipole Emitters.</strong>
     In <em>Optica Biophotonics Congress 2025, Technical Digest Series</em>, paper NM1C.4.
     <p><a class="btn btn--success btn--small" href="https://opg.optica.org/abstract.cfm?uri=NTM-2025-NM1C.4"><i class="fas fa-microphone-alt"></i>&nbsp; Conference Paper</a></p>
