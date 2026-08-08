@@ -2,7 +2,7 @@
 title: "Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters"
 category: journal-articles
 order: 3
-date: "2025-01-01" # TODO: Use YYYY-MM-DD. If only the month is known, use the first day of that month.
+date: "2025-03-07"
 sitemap: false
 ---
 <ol start="__ORDER__" style="font-size: 0.9em;">

@@ -2,7 +2,7 @@
 title: "Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy"
 category: journal-articles
 order: 2
-date: "2026-07-22" # Use YYYY-MM-DD. If only the month is known, use the first day of that month.
+date: "2026-07-22"
 sitemap: false
 ---
 <ol start="__ORDER__" style="font-size: 0.9em;">
@@ -14,7 +14,7 @@ sitemap: false
     DOI: <a href="https://doi.org/10.1088/2050-6120/ae8eff">10.1088/2050-6120/ae8eff</a>
     <p>
       <a class="btn btn--info btn--small" href="https://iopscience.iop.org/article/10.1088/2050-6120/ae8eff"><i class="fas fa-file-alt"></i>&nbsp; Article</a>
-      <!-- <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.134.093805" data-style="small_rectangle"></span> -->
+      <span class="__dimensions_badge_embed__" data-doi="10.1088/2050-6120/ae8eff" data-style="small_rectangle"></span>
     </p>
   </li>
 </ol>
