@@ -51,11 +51,11 @@ author_profile: true
   <dt>April 21-24 2025</dt>
   <dd><p>I attended the <em>Optica Biophotonics Congress: Optics in the Life Sciences</em> in Coronado, California, and presented "Combining Excitation and Emission Modulation Resolves the Angular Separation Between a Pair of Dipole Emitters" in the <em>Novel Techniques in Microscopy</em> session.</p></dd>
 
-  <dt>March 2025</dt>
+  <dt>March 07, 2025</dt>
   <dd><p>Our paper, "<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805">Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters</a>", has been published in <em>Physical Review Letters</em>.
   <br>
   - News coverage from McKelvey Engineering: “<a href="https://engineering.washu.edu/news/2025/In-molecular-imaging-details-matter.html">In molecular imaging, details matter</a>”.</p></dd>
 
-  <dt>June 2024</dt>
-  <dd><p>I attended the <em>Gordon Research Conference: Single Molecule Approaches to Biology</em> in Newry, Maine, and presented the poster <strong>"Resolving the Orientations of and Separation Between an Overlapping Pair of Dipole Emitters."</strong></p></dd>
+  <dt>July 13-19, 2024</dt>
+  <dd><p>I attended the <em>Gordon Research Seminar</em> and <em>Gordon Research Conference: Single Molecule Approaches to Biology</em> in Newry, Maine, and presented  poster "Resolving the Orientations of and Separation Between an Overlapping Pair of Dipole Emitters."</p></dd>
 </dl>
