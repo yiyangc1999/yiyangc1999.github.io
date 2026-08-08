@@ -21,7 +21,7 @@ Most website content is written in Markdown. Common updates include:
 
 - Homepage: `_pages/about.md`
 - News: `_pages/news.md`
-- Publications: `_publications/publications.md`
+- Publications: `_publications/` (one file per paper)
 - Research experience: `_pages/research-experiences.md`
 - Teaching: `_teaching/`
 - Honors and awards: `_pages/honors-awards.md`

@@ -5,5 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% assign publications_page = site.publications | where: "path", "_publications/publications.md" | first %}
-{{ publications_page.content | markdownify }}
+{% assign journal_articles = site.publications | where: "category", "journal-articles" | sort: "order" %}
+{% assign conference_proceedings = site.publications | where: "category", "conference-proceedings" | sort: "order" %}
+
+<h2 id="journal-articles">Journal Articles</h2>
+
+{% for pub in journal_articles %}
+{{ pub.content | markdownify | replace: "__ORDER__", forloop.index }}
+{% endfor %}
+
+<hr />
+
+<h2 id="preprints">Preprints</h2>
+
+<p><em>No preprints at this time.</em></p>
+
+<hr />
+
+<h2 id="conference-proceedings">Conference Proceedings</h2>
+
+{% for pub in conference_proceedings %}
+{{ pub.content | markdownify | replace: "__ORDER__", forloop.index }}
+{% endfor %}
