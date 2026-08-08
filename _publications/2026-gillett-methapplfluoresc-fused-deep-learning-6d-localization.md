@@ -2,6 +2,7 @@
 title: "Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy"
 category: journal-articles
 order: 2
+date: "2026-07-22" # Use YYYY-MM-DD. If only the month is known, use the first day of that month.
 sitemap: false
 ---
 <ol start="__ORDER__" style="font-size: 0.9em;">

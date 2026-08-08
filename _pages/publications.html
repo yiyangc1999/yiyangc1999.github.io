@@ -18,8 +18,8 @@ author_profile: true
 
 <p style="font-size: 0.85em;"><em><sup>*</sup> equal contribution; <sup>&dagger;</sup> corresponding author</em></p>
 
-{% assign journal_articles = site.publications | where: "category", "journal-articles" | sort: "order" %}
-{% assign conference_proceedings = site.publications | where: "category", "conference-proceedings" | sort: "order" %}
+{% assign journal_articles = site.publications | where: "category", "journal-articles" | sort: "date" | reverse %}
+{% assign conference_proceedings = site.publications | where: "category", "conference-proceedings" | sort: "date" | reverse %}
 
 <h2 id="journal-articles">Journal Articles</h2>
 
