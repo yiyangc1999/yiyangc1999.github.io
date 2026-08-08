@@ -2,7 +2,7 @@
 title: "Combining Excitation and Emission Modulation Resolves the Angular Separation between a Pair of Dipole Emitters"
 category: conference-proceedings
 order: 1
-date: "2025-01-01" # TODO: Use YYYY-MM-DD. If only the month is known, use the first day of that month.
+date: "2025-04-21"
 sitemap: false
 ---
 <ol start="__ORDER__" style="font-size: 0.9em;">
