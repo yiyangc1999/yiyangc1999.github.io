@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  /* The Dimensions citation badge (badge.dimensions.ai) injects a block-level
+     iframe, which forces it onto its own line after the Article/arXiv buttons.
+     Force it inline so it stays on the same line when there's room. */
+  .__dimensions_badge_embed__,
+  .__dimensions_badge_embed__ iframe {
+    display: inline-block !important;
+    vertical-align: middle !important;
+  }
+</style>
+
 <p style="font-size: 0.85em;"><em>* equal contribution; &dagger; corresponding author</em></p>
 
 {% assign journal_articles = site.publications | where: "category", "journal-articles" | sort: "order" %}
