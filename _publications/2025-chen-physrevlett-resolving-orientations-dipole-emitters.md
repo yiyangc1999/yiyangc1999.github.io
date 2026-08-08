@@ -11,7 +11,7 @@ sitemap: false
     <br>
     <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew Lew<sup>&dagger;</sup>.
     <em>Physical Review Letters</em> <strong>134</strong>, 093805 (2025).
-    <a href="https://doi.org/10.1103/PhysRevLett.134.093805">doi: 10.1103/PhysRevLett.134.093805</a>
+    DOI: <a href="https://doi.org/10.1103/PhysRevLett.134.093805">10.1103/PhysRevLett.134.093805</a>
     <p>
       <a class="btn btn--info btn--small" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805"><i class="fas fa-file-alt"></i>&nbsp; Article</a>
       <a class="btn btn--warning btn--small" href="https://arxiv.org/abs/2406.04469"><i class="fas fa-file-pdf"></i>&nbsp; arXiv</a>

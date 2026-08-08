@@ -36,20 +36,25 @@ author_profile: true
 </style>
 
 <dl class="news-list">
-  <dt>August 2026</dt>
-  <dd><p>Our review article, <a href="https://pubs.acs.org/achre4/article/doi/10.1021/acs.accounts.6c00353/5242275/Single-Fluorogens-and-Orientation-Localization">"Single Fluorogens and Orientation-Localization Microscopy for Quantifying Chemical and Biomolecular Dynamics at the Nanoscale"</a>, is now online in <em>Accounts of Chemical Research</em>.</p></dd>
+  <dt>August 04, 2026</dt>
+  <dd><p>Our review article, "<a href="https://pubs.acs.org/achre4/article/doi/10.1021/acs.accounts.6c00353/5242275/Single-Fluorogens-and-Orientation-Localization">Single Fluorogens and Orientation-Localization Microscopy for Quantifying Chemical and Biomolecular Dynamics at the Nanoscale</a>", is now online in <em>Accounts of Chemical Research</em>.</p></dd>
 
-  <dt>July 2026</dt>
-  <dd><p>Our collaborator Emil Gillett and colleagues in the <a href="https://landesgroup.illinois.edu/">Landes Research Group</a> published <a href="https://iopscience.iop.org/article/10.1088/2050-6120/ae8eff">"Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy"</a> in <em>Methods and Applications of Fluorescence</em>.</p></dd>
 
-  <dt>June 2026</dt>
+  <dt>July 22-24, 2026</dt>
   <dd><p>I attended the <em>7th Midwest Single Molecule Workshop</em> at the University of Illinois Urbana-Champaign and presented the poster <strong>"DeepSMOLM3D: Fast and Accurate 6D Single-Molecule Imaging via Deep Learning."</strong></p></dd>
 
-  <dt>April 2025</dt>
+
+  <dt>July 22, 2026</dt>
+  <dd><p>Our collaborator Emil Gillett and colleagues in the <a href="https://landesgroup.illinois.edu/">Landes Research Group</a> published <a href="https://iopscience.iop.org/article/10.1088/2050-6120/ae8eff">"Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy"</a> in <em>Methods and Applications of Fluorescence</em>.</p></dd>
+
+
+  <dt>April 21-24 2025</dt>
   <dd><p>I attended the <em>Optica Biophotonics Congress: Optics in the Life Sciences</em> in Coronado, California, and presented <strong>"Combining Excitation and Emission Modulation Resolves the Angular Separation Between a Pair of Dipole Emitters"</strong> in the <em>Novel Techniques in Microscopy</em> session.</p></dd>
 
   <dt>March 2025</dt>
-  <dd><p>Our paper, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805">"Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters"</a>, was published in <em>Physical Review Letters</em>.</p></dd>
+  <dd><p>Our paper, "<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805">Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters</a>", has been published in <em>Physical Review Letters</em>.
+  <br>
+  - News coverage from McKelvey Engineering: “<a href="https://engineering.washu.edu/news/2025/In-molecular-imaging-details-matter.html">In molecular imaging, details matter</a>”.</p></dd>
 
   <dt>June 2024</dt>
   <dd><p>I attended the <em>Gordon Research Conference: Single Molecule Approaches to Biology</em> in Newry, Maine, and presented the poster <strong>"Resolving the Orientations of and Separation Between an Overlapping Pair of Dipole Emitters."</strong></p></dd>
