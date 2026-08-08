@@ -8,7 +8,7 @@ sitemap: false
   <li>
     <strong style="font-size: 1.05em;">Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters.</strong>
     <br>
-    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew Lew&dagger;.
+    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew Lew<sup>&dagger;</sup>.
     <em>Physical Review Letters</em> <strong>134</strong>, 093805 (2025).
     <a href="https://doi.org/10.1103/PhysRevLett.134.093805">doi: 10.1103/PhysRevLett.134.093805</a>
     <p>

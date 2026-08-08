@@ -6,9 +6,9 @@ sitemap: false
 ---
 <ol start="__ORDER__" style="font-size: 0.9em;">
   <li>
-    <strong style="font-size: 1.05em;">Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy.</strong>
+    <strong style="font-size: 1.05em;">Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy</strong>
     <br>
-    Emil Niall Gillett, Subhojyoti Chatterjee*, Jagriti Chatterjee*, Nikita Kovalenko, Cong Xu, Dongyu Fan, <strong>Yiyang Chen</strong>, Yuanxin Qiu, Junyuan Miao, Varun Nelavoy, Matthew Lew, Mikael Backlund and Christy Landes&dagger;.
+    Emil Niall Gillett, Subhojyoti Chatterjee<sup>*</sup>, Jagriti Chatterjee<sup>*</sup>, Nikita Kovalenko, Cong Xu, Dongyu Fan, <strong>Yiyang Chen</strong>, Yuanxin Qiu, Junyuan Miao, Varun Nelavoy, Matthew Lew, Mikael Backlund and Christy Landes<sup>&dagger;</sup>.
     <em>Methods and Applications in Fluorescence</em> (2026).
     DOI: <a href="https://doi.org/10.1088/2050-6120/ae8eff">10.1088/2050-6120/ae8eff</a>
     <p>
