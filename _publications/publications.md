@@ -7,7 +7,33 @@ sitemap: false
 
 <ol style="font-size: 0.9em;">
   <li>
-    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew D. Lew.
+    <strong>Yiyang Chen</strong>*, Yuanxin Qiu*, and Matthew Lew
+    Single Fluorogens and Orientation-Localization Microscopy for Quantifying Chemical and Biomolecular Dynamics at the Nanoscale.
+    <em>Accounts of Chemical Research</em> (2026).
+    DOI: <a href="https://doi.org/10.1021/acs.accounts.6c00353">10.1021/acs.accounts.6c00353</a>
+    <p>
+      <a class="btn btn--info btn--small" href="https://pubs.acs.org/achre4/article/doi/10.1021/acs.accounts.6c00353/5242275/Single-Fluorogens-and-Orientation-Localization"><i class="fas fa-file-alt"></i>&nbsp; Article</a>
+      <!-- <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.134.093805" data-style="small_rectangle"></span> -->
+    </p>
+  </li>
+</ol>
+
+<ol style="font-size: 0.9em;">
+  <li>
+    Emil Niall Gillett, Subhojyoti Chatterjee*, Jagriti Chatterjee*, Nikita Kovalenko, Cong Xu, Dongyu Fan, <strong>Yiyang Chen</strong>, Yuanxin Qiu, Junyuan Miao, Varun Nelavoy, Matthew Lew, Mikael Backlund and Christy Landes
+    Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy.
+    <em>Methods and Applications in Fluorescence</em> (2026).
+    DOI: <a href="https://doi.org/10.1088/2050-6120/ae8eff">10.1088/2050-6120/ae8eff</a>
+    <p>
+      <a class="btn btn--info btn--small" href="https://iopscience.iop.org/article/10.1088/2050-6120/ae8eff"><i class="fas fa-file-alt"></i>&nbsp; Article</a>
+      <!-- <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevLett.134.093805" data-style="small_rectangle"></span> -->
+    </p>
+  </li>
+</ol>
+
+<ol style="font-size: 0.9em;">
+  <li>
+    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew Lew.
     Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters.
     <em>Physical Review Letters</em> <strong>134</strong>, 093805 (2025).
     <a href="https://doi.org/10.1103/PhysRevLett.134.093805">doi: 10.1103/PhysRevLett.134.093805</a>
