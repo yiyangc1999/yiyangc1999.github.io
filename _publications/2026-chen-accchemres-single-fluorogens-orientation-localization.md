@@ -6,8 +6,9 @@ sitemap: false
 ---
 <ol start="__ORDER__" style="font-size: 0.9em;">
   <li>
-    <strong>Yiyang Chen</strong>*, Yuanxin Qiu*, and Matthew Lew
-    Single Fluorogens and Orientation-Localization Microscopy for Quantifying Chemical and Biomolecular Dynamics at the Nanoscale.
+    <strong style="font-size: 1.05em;">Single Fluorogens and Orientation-Localization Microscopy for Quantifying Chemical and Biomolecular Dynamics at the Nanoscale.</strong>
+    <br>
+    <strong>Yiyang Chen</strong>*, Yuanxin Qiu*, and Matthew Lew&dagger;.
     <em>Accounts of Chemical Research</em> (2026).
     DOI: <a href="https://doi.org/10.1021/acs.accounts.6c00353">10.1021/acs.accounts.6c00353</a>
     <p>
