@@ -45,7 +45,7 @@ author_profile: true
 
 
   <dt>July 22, 2026</dt>
-  <dd><p>My collaborator Emil Gillett and colleagues in the <a href="https://landesgroup.illinois.edu/">Landes Research Group</a> published <a href="https://iopscience.iop.org/article/10.1088/2050-6120/ae8eff">"Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy"</a> in <em>Methods and Applications of Fluorescence</em>.</p></dd>
+  <dd><p>My collaborator Emil Gillett and colleagues in the <a href="https://landesgroup.illinois.edu/">Landes Research Group</a> published "<a href="https://iopscience.iop.org/article/10.1088/2050-6120/ae8eff">Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy</a>" in <em>Methods and Applications of Fluorescence</em>. I am glad to assist with some of the works!</p></dd>
 
 
   <dt>April 21-24 2025</dt>
