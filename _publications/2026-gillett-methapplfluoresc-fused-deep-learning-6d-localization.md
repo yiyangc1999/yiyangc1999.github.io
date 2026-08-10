@@ -11,7 +11,7 @@ sitemap: false
     <br>
     Emil Gillett, Subhojyoti Chatterjee*, Jagriti Chatterjee*, Nikita Kovalenko, Cong Xu, Dongyu Fan, <strong>Yiyang Chen</strong>, Yuanxin Qiu, Junyuan Miao, Varun Nelavoy, Matthew D. Lew, Mikael P. Backlund and Christy F. Landes&dagger;
     <br>
-    <em>Methods and Applications in Fluorescence</em> <strong>14</strong>(3), 035006 (2026). DOI: <a href="https://doi.org/10.1088/2050-6120/ae8eff">10.1088/2050-6120/ae8eff</a>
+    <em>Methods and Applications in Fluorescence</em> <strong>14</strong>, 035006 (2026). DOI: <a href="https://doi.org/10.1088/2050-6120/ae8eff">10.1088/2050-6120/ae8eff</a>
     <p>
       <a class="btn btn--info btn--small" href="https://iopscience.iop.org/article/10.1088/2050-6120/ae8eff"><i class="fas fa-file-alt"></i>&nbsp; Article</a>
       <span class="__dimensions_badge_embed__" data-doi="10.1088/2050-6120/ae8eff" data-style="small_rectangle"></span>
