@@ -45,14 +45,14 @@ author_profile: true
 
 
   <dt>July 22, 2026</dt>
-  <dd><p>Our collaborator Emil Gillett and colleagues in the <a href="https://landesgroup.illinois.edu/">Landes Research Group</a> published <a href="https://iopscience.iop.org/article/10.1088/2050-6120/ae8eff">"Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy"</a> in <em>Methods and Applications of Fluorescence</em>.</p></dd>
+  <dd><p>My collaborator Emil Gillett and colleagues in the <a href="https://landesgroup.illinois.edu/">Landes Research Group</a> published <a href="https://iopscience.iop.org/article/10.1088/2050-6120/ae8eff">"Fused deep-learning enables 6D single-molecule localization in polarization-resolved microscopy"</a> in <em>Methods and Applications of Fluorescence</em>.</p></dd>
 
 
   <dt>April 21-24 2025</dt>
   <dd><p>I attended the <em>Optica Biophotonics Congress: Optics in the Life Sciences</em> in Coronado, California, and presented "Combining Excitation and Emission Modulation Resolves the Angular Separation Between a Pair of Dipole Emitters" in the <em>Novel Techniques in Microscopy</em> session.</p></dd>
 
   <dt>March 07, 2025</dt>
-  <dd><p>Our paper, "<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805">Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters</a>", has been published in <em>Physical Review Letters</em>.
+  <dd><p>My paper, "<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805">Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters</a>", has been published in <em>Physical Review Letters</em>.
   <br>
   - News coverage from McKelvey Engineering: “<a href="https://engineering.washu.edu/news/2025/In-molecular-imaging-details-matter.html">In molecular imaging, details matter</a>”.</p></dd>
 

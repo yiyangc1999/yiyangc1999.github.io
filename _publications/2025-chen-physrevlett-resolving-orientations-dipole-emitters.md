@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters"
 category: journal-articles
-order: 3
+order: 1
 date: "2025-03-07"
 sitemap: false
 ---
@@ -9,8 +9,9 @@ sitemap: false
   <li>
     <strong style="font-size: 1.05em;">Resolving the Orientations of and Angular Separation Between a Pair of Dipole Emitters.</strong>
     <br>
-    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew Lew<sup>&dagger;</sup>.
-    <em>Physical Review Letters</em> <strong>134</strong>, 093805 (2025).
+    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew Lew&dagger;
+    <br>
+    <em>Physical Review Letters</em> <strong>134</strong>, 093805 (2025)
     DOI: <a href="https://doi.org/10.1103/PhysRevLett.134.093805">10.1103/PhysRevLett.134.093805</a>
     <p>
       <a class="btn btn--info btn--small" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.093805"><i class="fas fa-file-alt"></i>&nbsp; Article</a>
