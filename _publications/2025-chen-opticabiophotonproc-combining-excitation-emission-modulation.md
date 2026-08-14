@@ -7,7 +7,7 @@ sitemap: false
 ---
 <ol start="__ORDER__" style="font-size: 0.9em;">
   <li>
-    <strong style="font-size: 1.05em;">Combining Excitation and Emission Modulation Resolves the Angular Separation between a Pair of Dipole Emitters.</strong>
+    <strong style="font-size: 1.05em;">Combining Excitation and Emission Modulation Resolves the Angular Separation between a Pair of Dipole Emitters</strong>
     <br>
     <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew D. Lew&dagger;
     <br>
