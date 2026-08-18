@@ -7,7 +7,7 @@ author_profile: true
 
 ## Washington University in St. Louis
 
-### Seeing Molecular Orientation in Six Dimensions
+### Single-Molecule Orientation Localization Microscopy: Fundamental Limits, Computational Methods & Applications in Sensing Local Biochemical Environment in Living Systems
 
 *May 2022 - present | Advisor: Dr. Matthew D. Lew*
 
