@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Conference Participation
-4. **DeepSMOLM3D: Fast and Accurate 6D Single-Molecule Imaging via Deep Learning**, poster. *7th Midwest Single-Molecule Workshop*, niversity of Illinois Urbana-Champaign, IL, July 2026
+4. **DeepSMOLM3D: Fast and Accurate 6D Single-Molecule Imaging via Deep Learning**, poster. *7th Midwest Single-Molecule Workshop*, University of Illinois Urbana-Champaign, IL, July 2026
 3. **Combining Excitation and Emission Modulation Resolves the Angular Separation Between a Pair of Dipole Emitters**, [oral](https://opg.optica.org/abstract.cfm?uri=NTM-2025-NM1C.4#videoPlayer). *Optica Biophotonics Congress: Optics in the Life Sciences*, Coronado, CA, April 2025
 2. **Resolving the Orientations of and Separation between an Overlapping Pair of Dipole Emitters**, poster. *Gordon Research Conferences: Single Molecule Approaches to Biology*, Newry, ME, July 2024
 1. **Immunofluorescent Biomarkers for Distinguishing Cell Phenotypes in Zebrafish Somitogenesis and Autonomous Cellular Oscillators**, [poster](https://meetings.aps.org/Meeting/MAR20/Session/C71.85). *APS March Meeting 2020* (online), Denver, CO, March 2020
