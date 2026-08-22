@@ -1,0 +1,53 @@
+<li>
+  <strong style="font-size: 1.05em;">{{ include.publication.title | escape }}</strong>
+  <br>
+  {%- for author in include.publication.authors -%}
+    {%- unless forloop.first -%}
+      {%- if forloop.last -%}
+        {%- if forloop.length == 2 %} and {% else %}, and {% endif -%}
+      {%- else %}, {% endif -%}
+    {%- endunless -%}
+    {%- if author.highlight -%}<strong>{{ author.name | escape }}</strong>{%- else -%}{{ author.name | escape }}{%- endif -%}
+    {%- if author.equal_contribution -%}*{%- endif -%}
+    {%- if author.corresponding -%}&dagger;{%- endif -%}
+  {%- endfor -%}
+  <br>
+
+  {% if include.publication.journal %}
+    <em>{{ include.publication.journal | escape }}</em>{% if include.publication.volume %} <strong>{{ include.publication.volume | escape }}</strong>{% endif %}{% if include.publication.issue %}({{ include.publication.issue | escape }}){% endif %}{% if include.publication.pages %}, {{ include.publication.pages | escape }}{% elsif include.publication.article_number %}, {{ include.publication.article_number | escape }}{% endif %} ({{ include.publication.date | date: "%Y" }}).{% if include.publication.doi %} DOI: <a href="https://doi.org/{{ include.publication.doi | escape }}">{{ include.publication.doi | escape }}</a>{% endif %}
+  {% elsif include.publication.proceedings %}
+    In <em>{{ include.publication.proceedings | escape }}</em>{% if include.publication.paper_number %}, paper {{ include.publication.paper_number | escape }}{% endif %}.
+  {% elsif include.publication.preprint_server %}
+    <em>{{ include.publication.preprint_server | escape }}</em>{% if include.publication.preprint_identifier %}, {{ include.publication.preprint_identifier | escape }}{% endif %} ({{ include.publication.date | date: "%Y" }}).
+  {% endif %}
+
+  {% if include.publication.links or include.publication.doi %}
+    <p>
+      {% for link in include.publication.links %}
+        {% assign button_class = "btn--primary" %}
+        {% assign icon_class = "fa-external-link-alt" %}
+        {% case link.type %}
+          {% when "article" %}
+            {% assign button_class = "btn--info" %}
+            {% assign icon_class = "fa-file-alt" %}
+          {% when "arxiv" %}
+            {% assign button_class = "btn--warning" %}
+            {% assign icon_class = "fa-file-pdf" %}
+          {% when "conference" %}
+            {% assign button_class = "btn--success" %}
+            {% assign icon_class = "fa-microphone-alt" %}
+        {% endcase %}
+        <a class="btn {{ button_class }} btn--small" href="{{ link.url | escape }}"><i class="fas {{ icon_class }}"></i>&nbsp; {{ link.label | escape }}</a>
+      {% endfor %}
+      {% if include.publication.doi and include.publication.dimensions != false %}
+        <span class="__dimensions_badge_embed__" data-doi="{{ include.publication.doi | escape }}" data-style="small_rectangle"></span>
+      {% endif %}
+    </p>
+  {% endif %}
+
+  {% if include.publication.coverage %}
+    <p><strong>Coverage:</strong>
+      {% for item in include.publication.coverage %}<a href="{{ item.url | escape }}">{{ item.label | escape }}</a>{% unless forloop.last %} | {% endunless %}{% endfor %}
+    </p>
+  {% endif %}
+</li>

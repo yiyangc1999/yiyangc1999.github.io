@@ -1,17 +1,18 @@
 ---
 title: "Combining Excitation and Emission Modulation Resolves the Angular Separation between a Pair of Dipole Emitters"
 category: conference-proceedings
-order: 1
 date: "2025-04-21"
+authors:
+  - name: "Yiyang Chen"
+    highlight: true
+  - name: "Yuanxin Qiu"
+  - name: "Matthew D. Lew"
+    corresponding: true
+proceedings: "Optica Biophotonics Congress 2025, Technical Digest Series"
+paper_number: "NM1C.4"
+links:
+  - type: conference
+    label: "Conference Paper"
+    url: "https://opg.optica.org/abstract.cfm?uri=NTM-2025-NM1C.4"
 sitemap: false
 ---
-<ol start="__ORDER__" style="font-size: 0.9em;">
-  <li>
-    <strong style="font-size: 1.05em;">Combining Excitation and Emission Modulation Resolves the Angular Separation between a Pair of Dipole Emitters</strong>
-    <br>
-    <strong>Yiyang Chen</strong>, Yuanxin Qiu, and Matthew D. Lew&dagger;
-    <br>
-    In <em>Optica Biophotonics Congress 2025, Technical Digest Series</em>, paper NM1C.4.
-    <p><a class="btn btn--success btn--small" href="https://opg.optica.org/abstract.cfm?uri=NTM-2025-NM1C.4"><i class="fas fa-microphone-alt"></i>&nbsp; Conference Paper</a></p>
-  </li>
-</ol>
