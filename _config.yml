@@ -39,7 +39,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Mn-n8KIAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-6041-1298" # e.g., "https://orcid.org/xxxx"
+  orcid            : # "https://orcid.org/0009-0004-6041-1298" # e.g., "https://orcid.org/xxxx"
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
