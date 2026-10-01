@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Activities"
+title: "Professional Activities"
 permalink: /academic-activities/
 author_profile: true
 ---
@@ -15,15 +15,14 @@ author_profile: true
 Spectra, Optica (formerly OSA) & SPIE joint student chapter at Washington University in St. Louis <br />
  **Co-president**, 2023 - 2024 <br />
  **Vice president** (Imaging Science Pathway liason), 2022 - 2023 <br />
- - Hosted [2024 Spectra student-led conference](https://sites.wustl.edu/spectra/spectra-conference-2/2024-spectra-conference/), serve as the conference co-chair.
+ - Hosted [2024 Spectra student-led conference](https://sites.wustl.edu/spectra/spectra-conference-2/2024-spectra-conference/), served as the conference co-chair.
  - Organized Spectra coffee hour series
  - Participated in SciFest held by St. Louis Science Center. Introducing optical technologies and their application in daily life to the public.
 
-## Activities
+## Academic Activities
 *Aug 2020*, **Medical Physics Summer School** at Duke Kunshan University <br />
-*Jun 2020 - Aug 2020*, **The Physics of Life Summer School** (virtural) at the Center for the Physics of Biological Function,
-Princeton University
+*Jun 2020 - Aug 2020*, **The Physics of Life Summer School**  at the Center for the Physics of Biological Function, Princeton University
 
-## Professional Memberships
+## Memberships
 Student member of Optica，2022 - present <br />
 Student member of SPIE, 2022 - present <br />
