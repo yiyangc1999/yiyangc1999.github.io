@@ -24,5 +24,5 @@ Spectra, Optica (formerly OSA) & SPIE joint student chapter at Washington Univer
 *Jun 2020 - Aug 2020*, **The Physics of Life Summer School**  at the Center for the Physics of Biological Function, Princeton University
 
 ## Memberships
-Student member of Optica，2022 - present <br />
+Student member of Optica, 2022 - present <br />
 Student member of SPIE, 2022 - present <br />

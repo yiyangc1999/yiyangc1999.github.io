@@ -9,7 +9,7 @@ author_profile: true
 
 ### Multidimensional Single-Molecule Nanoscopy to Elucidate the Structure and Conformational Dynamics of Cell Membrane Proteins
 
-*2022 - present | Advisor: Dr. Matthew D. Lew*
+2022 - present | Advisor: Matthew D. Lew
 
 My doctoral research lies in single-molecule orientation-localization microscopy (SMOLM), where I ask questions about how to extract information from the images from individual fluorophores and how much can we learn from those information. My work spans the full imaging pipeline: I formulate mathematical models, develop computational methods, build and characterize optical systems, and apply these tools to biological questions. Ultimately, I aim to acquire information that conventional spatial images cannot provide, including local chemical environments, fluorophore-target interactions, and the conformational dynamics of membrane proteins.
 
@@ -28,6 +28,6 @@ My doctoral research lies in single-molecule orientation-localization microscopy
 
 ### The Study of Deformability of Human Erythrocyte Based on Microfluidics
 
-*2019 - 2021 | Advisor: Dr. Leiting Pan*
+2019 - 2021 | Advisor: Dr. Leiting Pan
 
 My undergraduate research explored the membrane structure and properties of human red blood cells. On the macroscopic level, I quantified cell deformability by measuring how fast cells traveled through narrow microfluidic channels, then designed and simulated a microfluidic ratchet chip in COMSOL Multiphysics to test whether cells could be sorted by age-related differences in deformability. On the microscopic level, I turned to single-molecule localization microscopy (SMLM), analyzing the actin-spectrin network and the diffusivity of CD47 on red blood cell membranes. This project was my first exposure to single-molecule imaging and to the connection between physical measurement, optical instrumentation, and biological function — a connection that continues to shape my research today.
