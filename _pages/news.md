@@ -36,6 +36,9 @@ author_profile: true
 </style>
 
 <dl class="news-list">
+  <dt>October 12, 2026</dt>
+  <dd><p>Our paper, "DeepSMOLM3D: deep learning-based single-molecule imaging reveals distinct fluorogenic probe orientations upon membrane binding", has been accepted for an oral presentation at <b>Photonics West 2027</b> in the <em>Single Molecule Spectroscopy and Superresolution Imaging XX</em> conference. I look forward to sharing our latest work and connecting with fellow researchers in San Francisco.</p></dd>
+
   <dt>August 04, 2026</dt>
   <dd><p>Our review article, "<a href="https://pubs.acs.org/achre4/article/doi/10.1021/acs.accounts.6c00353/5242275/Single-Fluorogens-and-Orientation-Localization">Single Fluorogens and Orientation-Localization Microscopy for Quantifying Chemical and Biomolecular Dynamics at the Nanoscale</a>", is now online in <em>Accounts of Chemical Research</em>.</p></dd>
 
