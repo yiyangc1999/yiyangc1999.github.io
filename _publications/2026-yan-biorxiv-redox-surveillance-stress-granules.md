@@ -26,7 +26,9 @@ authors:
   - name: "Yusuke Okuno"
   - name: "Simon Alberti"
   - name: "Ji-Young Youn"
+    corresponding: true
   - name: "Karina Pombo-Garcia"
+    corresponding: true
   - name: "Yifan Dai"
     corresponding: true
   - name: "Anthony A. Hyman"
