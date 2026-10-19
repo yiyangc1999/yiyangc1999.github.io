@@ -18,7 +18,7 @@
   {% elsif include.publication.proceedings %}
     In <em>{{ include.publication.proceedings | escape }}</em>{% if include.publication.paper_number %}, paper {{ include.publication.paper_number | escape }}{% endif %}.
   {% elsif include.publication.preprint_server %}
-    <em>{{ include.publication.preprint_server | escape }}</em>{% if include.publication.preprint_identifier %}, {{ include.publication.preprint_identifier | escape }}{% endif %} ({{ include.publication.date | date: "%Y" }}).
+    <em>{{ include.publication.preprint_server | escape }}</em>{% if include.publication.preprint_identifier %}, {{ include.publication.preprint_identifier | escape }}{% endif %} ({{ include.publication.date | date: "%Y" }}).{% if include.publication.doi %} DOI: <a href="https://doi.org/{{ include.publication.doi | escape }}">{{ include.publication.doi | escape }}</a>{% endif %}
   {% endif %}
 
   {% if include.publication.links or include.publication.doi %}
