@@ -12,7 +12,7 @@ proceedings: "Optica Biophotonics Congress 2025, Technical Digest Series"
 paper_number: "NM1C.4"
 links:
   - type: conference
-    label: "Conference Paper"
+    label: "Conference Proceeding"
     url: "https://opg.optica.org/abstract.cfm?uri=NTM-2025-NM1C.4"
 sitemap: false
 ---

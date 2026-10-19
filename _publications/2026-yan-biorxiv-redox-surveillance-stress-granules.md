@@ -37,8 +37,8 @@ preprint_server: "bioRxiv"
 preprint_identifier: "2026.10.16.759411"
 doi: "10.64898/2026.10.16.759411"
 links:
-  - type: article
-    label: "Preprint"
+  - type: arxiv
+    label: "bioRxiv"
     url: "https://doi.org/10.64898/2026.10.16.759411"
 sitemap: false
 ---
