@@ -37,10 +37,10 @@ author_profile: true
 
 <dl class="news-list">
   <dt>October 12, 2026</dt>
-  <dd><p>Our paper, "DeepSMOLM3D: deep learning-based single-molecule imaging reveals distinct fluorogenic probe orientations upon membrane binding", has been accepted for an oral presentation at <b>Photonics West 2027</b> as part of the <em>Single Molecule Spectroscopy and Superresolution Imaging XX</em> conference. I look forward to presenting the recent advances and meeting with researchers in San Francisco.</p></dd>
+  <dd><p>I will be presenting our collaborated study with Carlos Fernandez-Granda (New York University) and Qing Qu (University of Michigan), <a href="https://spie.org/photonics-west/presentation/DeepSMOLM3D--deep-learning-based-single-molecule-imaging-reveals-distinct/14424-16">"DeepSMOLM3D: deep learning-based single-molecule imaging reveals distinct fluorogenic probe orientations upon membrane binding"</a>, in the <a href="https://spie.org/PWB/conferencedetails/single-molecule-spectroscopy">Single Molecule Spectroscopy and Superresolution Imaging XX</a> conference on <b>January 30, 2027</b>, at Photonics West 2027.</p></dd>
 
   <dt>August 04, 2026</dt>
-  <dd><p>Our review article, "<a href="https://pubs.acs.org/achre4/article/doi/10.1021/acs.accounts.6c00353/5242275/Single-Fluorogens-and-Orientation-Localization">Single Fluorogens and Orientation-Localization Microscopy for Quantifying Chemical and Biomolecular Dynamics at the Nanoscale</a>", is now online in <em>Accounts of Chemical Research</em>.</p></dd>
+  <dd><p>Our review article, <a href="https://pubs.acs.org/achre4/article/doi/10.1021/acs.accounts.6c00353/5242275/Single-Fluorogens-and-Orientation-Localization">"Single Fluorogens and Orientation-Localization Microscopy for Quantifying Chemical and Biomolecular Dynamics at the Nanoscale"</a>, is now online in <em>Accounts of Chemical Research</em>.</p></dd>
 
 
   <dt>July 22-24, 2026</dt>
