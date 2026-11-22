@@ -12,4 +12,4 @@ I am currently a Ph.D. candidate in [Imaging Science](https://engineering.wustl.
 
 Prior to WashU, I received my B.S. in Physics from Nankai University as a member of the Poling Class of Physics. I studied the deformability and membrane organization of human red blood cells using microfluidics and single-molecule localization microscopy under Prof. [Leiting Pan](http://panltlab.org/). In the summer of 2019, I was a visiting student in Prof. [Qiong Yang](https://websites.umich.edu/~qiongy/)'s Lab in the Department of Biophysics at University of Michigan.
 
-More details can be found in my [CV](/files/cv_YiyangCHEN.pdf).
+More details can be found in my CV [[PDF](/files/cv_YiyangCHEN.pdf)].
